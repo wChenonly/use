@@ -30,7 +30,6 @@ wChenonly's use
 ## MacOS Productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
-- [Kap](https://getkap.co/) - GIF Recorder
 - [Picture View](https://wl879.github.io/apps/picview/) - Minimalist picture viewer
 - [Rectangle](https://rectangleapp.com/) - Window Manager
 - [Snipaste](https://www.snipaste.com/) - Screenshot and Paste images
