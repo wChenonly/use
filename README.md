@@ -77,7 +77,7 @@ wChenonly's use
 - [`tsx`](https://github.com/esbuild-kit/tsx) - Node.js enhanced with esbuild
 - [`eslint`](https://eslint.org/) - Linter & Formatter
 
-  - Config: [eslint-config](https://github.com/wChenonly/eslint-config-wChenonly)
+  - Config: [eslint-config-wChenonly](https://github.com/wChenonly/eslint-config-wChenonly)
 
 - Build Tools for Libraries
 
