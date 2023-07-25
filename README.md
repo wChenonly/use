@@ -6,10 +6,10 @@ wChenonly's use
 
 - Editor
   - [VS Code](https://code.visualstudio.com/) - Write code
-  - [Sublime](https://www.sublimetext.com/download) - Check files occasionally
+  - [Sublime](https://www.sublimetext.com/download) - View files occasionally
 - Fonts
   - [Hermit Regular](https://pcaro.es/) - Editor font
-  - [Nerd Font](https://www.nerdfonts.com/) - Iconic font aggregator
+  - [Nerd Font](https://www.nerdfonts.com/) - Iconic font aggregator for terminal
 
 ## Chrome Extensions
 
@@ -18,12 +18,12 @@ wChenonly's use
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) - It looks very nice!
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Spell check
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Ad blocker
-- [火山翻译 - 划词和网页翻译](https://chrome.google.com/webstore/detail/火山翻译-划词和网页翻译/klgfhbiooeogdfodpopgppeadghjjemk) - Translation
-- [iTab 新标签页](https://chrome.google.com/webstore/detail/itab新标签页免费chatgpt/mhloojimgilafopcmlcikiidgbbnelip) - New tab page
+- [火山翻译 - 划词和网页翻译](https://chrome.google.com/webstore/detail/火山翻译-划词和网页翻译/klgfhbiooeogdfodpopgppeadghjjemk) - Better Translation
+- [iTab 新标签页](https://chrome.google.com/webstore/detail/itab新标签页免费chatgpt/mhloojimgilafopcmlcikiidgbbnelip) - Better New tab page
 - [草料二维码-快速生码和解码工具](https://chrome.google.com/webstore/detail/草料二维码-快速生码和解码工具/moombeodfomdpjnpocobemoiaemednkg) - Quick QR code generator
 - [Wappalyzer - Technology profiler](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Detect web technologies
 - [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi) - Better history tool
-- [Chrono 下载管理器](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn) - Download manager
+- [Chrono 下载管理器](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn) - Better Download manager
 - [Chrono Power Action](https://chrome.google.com/webstore/detail/chrono-power-action/mpndfekdcijnjgfcoghjkhnjmdajhmnf) - Quick and power starter action
 - [Github npm stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Show npm stats on GitHub
 
@@ -63,7 +63,7 @@ wChenonly's use
   - [bat](https://github.com/sharkdp/bat) - Better cat
   - [exa](https://github.com/ogham/exa) - Better ls
   - [dust](https://github.com/bootandy/dust) - Better du
-  - [zoxide](zoxide) - Better cd
+  - [zoxide](https://github.com/ajeetdsouza/zoxide) - Better cd
 
 - [`zsh`](https://zsh.org/) - Shell
 
@@ -76,6 +76,7 @@ wChenonly's use
 - [`bumpp`](https://github.com/antfu/bumpp) - Bump package version version for new release
 - [`tsx`](https://github.com/esbuild-kit/tsx) - Node.js enhanced with esbuild
 - [`eslint`](https://eslint.org/) - Linter & Formatter
+- [`prettier`](https://prettier.io/) - Formatter
 
   - Config: [eslint-config-wChenonly](https://github.com/wChenonly/eslint-config-wChenonly)
 
