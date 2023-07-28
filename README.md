@@ -51,6 +51,7 @@ wChenonly's use
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - SwitchHosts
 - [Grammarly](https://www.grammarly.com/) - Grammarly for Mac OS - Spell check
 - [MiaoYan](https://github.com/tw93/MiaoYan) - A markdown editor, markdown reader.
+- [AltTab](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
 ## Hardware
 
