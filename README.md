@@ -71,6 +71,7 @@ wChenonly's use
   - Config: [wChenonly/dotfiles](https://github.com/wChenonly/dotfiles)
 
 - [`starship`](https://starship.rs/) - Shell prompt
+- [`powerlevel10k`](https://github.com/romkatv/powerlevel10k/) -Another one Shell prompt
 - [`pnpm`](https://pnpm.io/) - Preferred package managers, also for monorepo
 - [`ni`](https://github.com/antfu/ni) - Aliasing package managers
 - [`taze`](https://github.com/antfu/taze) - Upgrade dependencies
