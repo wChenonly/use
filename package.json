@@ -1,0 +1,23 @@
+{
+  "name": "use",
+  "version": "1.0.0",
+  "description": "wChenonly's use",
+  "packageManager": "pnpm@8.6.11",
+  "private": true,
+  "scripts": {
+    "lint": "awesome-lint README.md"
+  },
+  "author": "wChenonly",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-lint": "^0.18.3",
+    "nano-staged": "^0.8.0",
+    "simple-git-hooks": "^2.9.0"
+  },
+  "nano-staged": {
+    "*.{md}": "pnpm lint"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx nano-staged"
+  }
+}
