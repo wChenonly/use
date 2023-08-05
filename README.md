@@ -60,12 +60,11 @@ wChenonly's use
 ## CLI
 
 - [brew](https://brew.sh/) - The missing package manager for macOS
-
-  - [bat](https://github.com/sharkdp/bat) - Better cat
-  - [exa](https://github.com/ogham/exa) - Better ls
-  - [dust](https://github.com/bootandy/dust) - Better du
-  - [zoxide](https://github.com/ajeetdsouza/zoxide) - Better cd
-
+- [bat](https://github.com/sharkdp/bat) - Better cat
+- [exa](https://github.com/ogham/exa) - Better ls
+- [dust](https://github.com/bootandy/dust) - Better du
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - Better cd
+- [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - Enhance the functions of Quick Look
 - [`zsh`](https://zsh.org/) - Shell
 
   - Config: [wChenonly/dotfiles](https://github.com/wChenonly/dotfiles)
