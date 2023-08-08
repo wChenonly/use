@@ -1,4 +1,5 @@
 <!--lint disable awesome-badge awesome-contributing awesome-git-repo-age awesome-github awesome-toc-->
+
 # Use
 
 wChenonly's use
@@ -70,8 +71,7 @@ wChenonly's use
 
   - Config: [wChenonly/dotfiles](https://github.com/wChenonly/dotfiles).
 
-- [`starship`](https://starship.rs) - Shell prompt.
-- [`powerlevel10k`](https://github.com/romkatv/powerlevel10k) - Another one Shell prompt.
+- [`starship`](https://starship.rs) - Shell prompt base rust, fast.
 - [`pnpm`](https://pnpm.io) - Preferred package managers, also for monorepo.
 - [`ni`](https://github.com/antfu/ni) - Aliasing package managers.
 - [`taze`](https://github.com/antfu/taze) - Upgrade dependencies.
