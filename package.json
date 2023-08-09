@@ -5,7 +5,8 @@
   "packageManager": "pnpm@8.6.11",
   "private": true,
   "scripts": {
-    "lint": "awesome-lint README.md"
+    "lint": "awesome-lint README.md",
+    "postinstall": "simple-git-hooks"
   },
   "author": "wChenonly",
   "license": "MIT",
