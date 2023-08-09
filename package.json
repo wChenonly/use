@@ -2,7 +2,7 @@
   "name": "use",
   "version": "1.0.0",
   "description": "wChenonly's use",
-  "packageManager": "pnpm@8.6.11",
+  "packageManager": "pnpm@8.6.12",
   "private": true,
   "scripts": {
     "lint": "awesome-lint README.md",
