@@ -54,6 +54,7 @@ wChenonly's use
 - [Grammarly](https://www.grammarly.com) - Grammarly for macOS - Spell check.
 - [MiaoYan](https://github.com/tw93/MiaoYan) - A markdown editor, markdown reader.
 - [AltTab](https://github.com/lwouis/alt-tab-macOS) - AltTab brings the power of Windows alt-tab to macOS.
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Adjust the external display.
 
 ## Hardware
 

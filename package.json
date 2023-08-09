@@ -15,7 +15,7 @@
     "simple-git-hooks": "^2.9.0"
   },
   "nano-staged": {
-    "*.{md}": "pnpm lint"
+    "README.md": "pnpm lint"
   },
   "simple-git-hooks": {
     "pre-commit": "npx nano-staged"
