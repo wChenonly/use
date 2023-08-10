@@ -55,6 +55,7 @@ wChenonly's use
 - [MiaoYan](https://github.com/tw93/MiaoYan) - A markdown editor, markdown reader.
 - [AltTab](https://github.com/lwouis/alt-tab-macOS) - AltTab brings the power of Windows alt-tab to macOS.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Adjust the external display.
+- [KeyboardHolder](https://github.com/leaves615/KeyboardHolder) - Automatic switching input method based on different programs.
 
 ## Hardware
 
