@@ -74,6 +74,11 @@ wChenonly's use
   - Config: [wChenonly/dotfiles](https://github.com/wChenonly/dotfiles).
 
 - [`starship`](https://starship.rs) - Shell prompt base rust, fast.
+- [`mcfly`](https://github.com/cantino/mcfly) - Better history tool.
+- [`mac-cleanup-py`](https://github.com/mac-cleanup/mac-cleanup-py) - Python cleanup script for macOS.
+
+## Node.js
+
 - [`pnpm`](https://pnpm.io) - Preferred package managers, also for monorepo.
 - [`ni`](https://github.com/antfu/ni) - Aliasing package managers.
 - [`taze`](https://github.com/antfu/taze) - Upgrade dependencies.
@@ -90,5 +95,3 @@ wChenonly's use
   - [`tsup`](https://github.com/egoist/tsup) - Easy to use.
   - [`rollup`](https://rollupjs.org) - For very fine-grained control.
   - [`esbuild`](https://esbuild.github.io) - Speed.
-
-- [`mac-cleanup-py`](https://github.com/mac-cleanup/mac-cleanup-py) - Python cleanup script for macOS.
