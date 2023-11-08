@@ -65,7 +65,7 @@ wChenonly's use
 
 - [brew](https://brew.sh) - The missing package manager for macOS.
 - [bat](https://github.com/sharkdp/bat) - Better cat.
-- [exa](https://github.com/ogham/exa) - Better ls.
+- [eza](https://github.com/eza-community/eza) - Better ls.
 - [dust](https://github.com/bootandy/dust) - Better du.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - Better cd.
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - Enhance the functions of Quick Look.
