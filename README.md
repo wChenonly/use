@@ -46,7 +46,7 @@ wChenonly's use
 - [Prettyclean](https://www.prettyclean.cc/zh) - Easy to use macOS disk cleanup tool.
 - [Qspace](https://qspace.awehunt.com/zh-cn/index.html) - A better Finder, more flexible and has rich features.
 - [Handshaker](https://www.smartisan.com/apps/#/handshaker) - Android phone manager.
-- [Iexplorer](https://macroplant.com/iexplorer) - iOS device manager.
+- [iexplorer](https://macroplant.com/iexplorer) - iOS device manager.
 - [Kitty](https://github.com/kovidgoyal/kitty) - Well, a terminal.
 - [Jietu](https://jietu.qq.com) - Screenshot tool from Tencent.
 - [Clashx-pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) - ClashX Pro.
