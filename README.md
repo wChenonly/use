@@ -37,11 +37,10 @@ wChenonly's use
 - [Snipaste](https://www.snipaste.com) - Screenshot and Paste images.
 - [iBar](https://apps.apple.com/cn/app/ibar-强大的菜单栏图标管理工具/id6443843900?mt=1) - Menu bar icon manager.
 - [Macitbetter](https://macitbetter.com) - Archiver，support quicklook.
-- [Bob](https://apps.apple.com/cn/app/id1630034110#?platform=mac) - Mac best Translation App.
+- [Easydict](https://github.com/tisfeng/Easydict) - Mac best Translation App.
 - [Popclip](https://pilotmoon.com/popclip) - Pop up menu.
 - [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualizer.
 - [Gifski](https://apps.apple.com/app/id1351639930) - Convert videos to GIFs.
-- [Fig](https://fig.io) - The next-generation command line.
 - [Runcat](https://kyome.io/runcat/index.html?lang=en) - Cat living in the menubar.
 - [Prettyclean](https://www.prettyclean.cc/zh) - Easy to use macOS disk cleanup tool.
 - [Qspace](https://qspace.awehunt.com/zh-cn/index.html) - A better Finder, more flexible and has rich features.
